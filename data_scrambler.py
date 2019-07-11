@@ -1,4 +1,4 @@
-mport csv
+import csv
 import random
 import click
 from math import ceil
